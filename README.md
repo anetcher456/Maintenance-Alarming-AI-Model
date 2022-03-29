@@ -1,0 +1,2 @@
+# Maintenance-Alarming-AI-Model
+The SenseAnywhere company is in charge of this project, which focuses on many sensors that provide the best automatic temperature monitoring. Sensors are used in a variety of applications, including cold chain, pharmaceuticals, and healthcare. With that in mind, and a large number of sensors, the project contributed to device maintenance prediction and warning prevention.
